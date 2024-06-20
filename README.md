@@ -6,7 +6,9 @@
 
 ## 🚀 About me
 
-I'm a Junior Front End Developer and I'm qualifying to become a Fullstack Developer focusing on the .NET platform
+Técnico em Informática desde 2013. Desenvolvedor Web desde 2022. Como se diz aqui no Brasil: Bora para frente porque foguete não dá ré.
+
+IT Technician since 2013. Web Developer since 2022. As they say here in Brazil: Let's move forward because rockets can't go backwards.
 
 [@SamuelMBote](https://github.com/SamuelMBote)
 
@@ -24,8 +26,6 @@ Technologies I already have some experience with:
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
